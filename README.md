@@ -1,5 +1,5 @@
 ![Aspiring Backend Engineer | CSE Student at HSTU](https://media.licdn.com/dms/image/v2/D5616AQHaqKJyC-yC2Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733499954034?e=1738800000&v=beta&t=7JtgzRyk4Ecf4dfS6-4x4q7wh7O9HFoySo4L_JkXQr0)
-## Hi there 👋, I'm Saddam Hosen
+# Hi there 👋, I'm Saddam Hosen
 #### Aspiring Backend Engineer | CSE Student at HSTU
 
 I'm a Computer Science and Engineering (CSE) student at HSTU and an aspiring backend engineer with a passion for turning ideas into reality through code.
@@ -17,5 +17,5 @@ Skills: C/C++/ JavaScript / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SaddamHosen42)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/saddam-hosen/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/saddamhosen4)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=SaddamHosen42)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=SaddamHosen42) 
 
