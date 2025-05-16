@@ -1,4 +1,4 @@
-![Aspiring Backend Engineer | CSE Student at HSTU]([<img src='https://media.licdn.com/dms/image/v2/D5616AQGgllPXrUCgYA/profile-displaybackgroundimage-shrink_350_1400/B56ZWylhs4GsAc-/0/1742457939783?e=1747872000&v=beta&t=D4s9y24VoF39I3kmx5DX8CjgU5uFzZDuuSPeoDd1C0M'>])
+<img src='https://media.licdn.com/dms/image/v2/D5616AQGgllPXrUCgYA/profile-displaybackgroundimage-shrink_350_1400/B56ZWylhs4GsAc-/0/1742457939783?e=1747872000&v=beta&t=D4s9y24VoF39I3kmx5DX8CjgU5uFzZDuuSPeoDd1C0M'>
 # Hi there 👋, I'm Saddam Hosen
 ### Aspiring Backend Engineer | CSE Student at HSTU
 
