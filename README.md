@@ -59,7 +59,7 @@
 ## 📬 Connect with Me
 
 - 📧 Email: **saddamhosen1433@gmail.com**
-- 🌐 Portfolio: *Coming Soon*
+- 🌐 Portfolio: https://saddam-hosen.vercel.app/
 - 💼 LinkedIn: [linkedin.com/in/saddam-hosen](https://www.linkedin.com/in/saddam-hosen/)
 - 🐙 GitHub: [github.com/SaddamHosen42](https://github.com/SaddamHosen42)
 
