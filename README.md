@@ -85,7 +85,7 @@ I'm open to:
   <a href="https://github.com/SaddamHosen42" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/saddam-hosen/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://wa.me/8801627482575" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://saddamhosen.web.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=FirefoxBrowser&logoColor=white"/></a>
+  <a href="https://saddam-hosen.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=FirefoxBrowser&logoColor=white"/></a>
 </p>
 
 ---
