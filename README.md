@@ -47,7 +47,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaddamHosen42&show_icons=true&theme=github_dark" alt="GitHub Stats" />
   <br />
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SaddamHosen42" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SaddamHosen42&theme=dark" alt="GitHub Streak" /></a>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaddamHosen42&layout=compact&theme=github_dark" alt="Top Languages" />
   <br />
