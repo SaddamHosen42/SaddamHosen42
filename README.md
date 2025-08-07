@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Saddam Hosen</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast | Problem Solver</h3>
 
 ---
 
@@ -15,13 +15,13 @@ I'm Saddam Hosen, a passionate and self-driven Full Stack Web Developer from Ban
 
 ### 🔭 Current Activities
 - 🚀 I’m exploring **Next.js**
-- 🌍 I’m currently working on a **Tourism Website**
-- 🛠️ Improving my skills in **Backend Development**
-- 📚 Participating in coding communities and hackathons
+- 🌍 Currently working on a **Parcel delivery app**
+- 🛠️ Learning advanced **Backend Development**
+- 📚 Participating in coding contests and open source
 
 ---
 
-### 🚀 Skills
+### 🧰 Tech Stack
 
 #### 🖥️ Frontend
 <p>
@@ -49,15 +49,49 @@ I'm Saddam Hosen, a passionate and self-driven Full Stack Web Developer from Ban
 
 ---
 
-### 🌐 Connect with Me
+### 🏆 Achievements
+
+- 🏅 Campus Hero at **Programming Hero**
+- 💻 IT & Sublication Secretary at **Programmers' Arena, HSTU**
+- 📣 Campus Ambassador – **ICT Olympiad Bangladesh**
+- 🤝 Co-Managing Secretary – **Tangail District Student Welfare Association, HSTU**
+
+---
+
+### 📂 Featured Projects
+
+#### 🌉 [FoodBridge](https://github.com/SaddamHosen42)  
+A food donation and request platform where users can donate or request food based on real-time availability.
+
+#### 🏢 Nivash – Building Management System  
+Role-based dashboards, apartment listing, rent payment, coupon system, and announcements — all in one system.
+
+---
+
+### 📢 Let's Collaborate!
+
+I'm open to:
+- 💼 Freelance or Remote Jobs  
+- 👥 Team Projects & Hackathons  
+- 🧠 Learning & Mentorship Opportunities  
+- 🌱 Open Source Contributions  
+
+---
+
+### 📞 Contact Me
+
 <p>
+  <a href="mailto:saddamhosen1433@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/SaddamHosen42" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/saddam-hosen-040/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/saddam-hosen/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://wa.me/8801627482575" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://saddamhosen.web.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=FirefoxBrowser&logoColor=white"/></a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaddamHosen42&show_icons=true&locale=en&theme=tokyonight" alt="SaddamHosen42" />
 </p>
