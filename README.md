@@ -58,16 +58,6 @@ I'm Saddam Hosen, a passionate and self-driven Full Stack Web Developer from Ban
 
 ---
 
-### 📂 Featured Projects
-
-#### 🌉 [FoodBridge](https://github.com/SaddamHosen42)  
-A food donation and request platform where users can donate or request food based on real-time availability.
-
-#### 🏢 Nivash – Building Management System  
-Role-based dashboards, apartment listing, rent payment, coupon system, and announcements — all in one system.
-
----
-
 ### 📢 Let's Collaborate!
 
 I'm open to:
