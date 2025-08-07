@@ -47,11 +47,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaddamHosen42&show_icons=true&theme=github_dark" alt="GitHub Stats" />
   <br />
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=SaddamHosen42&theme=dark" alt="GitHub Streak" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaddamHosen42&layout=compact&theme=github_dark" alt="Top Languages" />
   <br />
   <img src="https://github-contribution-graph.vercel.app/api?username=SaddamHosen42&theme=github-dark" alt="GitHub Contribution Graph" />
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=SaddamHosen42)](https://git.io/streak-stats)
+
 ---
 
 ## 📬 Connect with Me
