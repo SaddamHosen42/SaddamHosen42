@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQGgllPXrUCgYA/profile-displaybackgroundimage-shrink_350_1400/B56ZWylhs4GsAc-/0/1742457939783?e=1757548800&v=beta&t=dpaY0yKKrBgCrtZiRsbEihTVcCdbD__VbhEdQP3VtG4" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/CKzgFmKf/Black-and-White-Simple-seo-Linked-In-Background-Photo.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Saddam Hosen</h1>
