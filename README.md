@@ -9,7 +9,7 @@
 ---
 
 ### 🧑‍💻 About Me
-I'm Saddam Hosen, a passionate and self-driven Full Stack Web Developer from Bangladesh. Currently pursuing my B.Sc. in CSE at HSTU. I love creating scalable, user-focused web applications using the MERN Stack and constantly learning new technologies to grow as a software engineer.
+I'm Saddam Hosen, a passionate and self-driven Full Stack Web Developer from Bangladesh. Currently pursuing my B.Sc. in CSE at Hajee Mohammad Danesh Science and Technology University (HSTU). I love creating scalable, user-focused web applications using the MERN Stack and constantly learning new technologies to grow as a software engineer.
 
 ---
 
