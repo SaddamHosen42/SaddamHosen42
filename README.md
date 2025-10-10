@@ -15,8 +15,8 @@ I'm Saddam Hosen, a passionate and self-driven Full Stack Web Developer from Ban
 
 ### 🔭 Current Activities
 - 🚀 I’m exploring **Next.js**
-- 🌍 Currently working on a **Parcel delivery app**
-- 🛠️ Learning advanced **Backend Development**
+- 🌍 Currently working on a **Yummy Go – Food Delivery App**
+- 🛠️ Learning advanced **Backend Development with MVC Architecture**
 - 📚 Participating in coding contests and open source
 
 ---
